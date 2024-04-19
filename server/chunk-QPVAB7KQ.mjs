@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as i,b as m,c as p}from"./chunk-NNXNNYUR.mjs";import{o as e}from"./chunk-F5SP6GD2.mjs";import{V as r,aa as n}from"./chunk-6ELY2DPB.mjs";import"./chunk-VVCT4QZE.mjs";var s=[{path:"login",component:i},{path:"dashboard",component:m},{path:"employee",component:p}],y=(()=>{let o=class o{};o.\u0275fac=function(a){return new(a||o)},o.\u0275mod=r({type:o}),o.\u0275inj=n({imports:[e.forChild(s),e]});let t=o;return t})();export{y as EmpRoutingModule};
